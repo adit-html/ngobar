@@ -54,3 +54,4 @@ echo "<br> 6. Hasil dari luas lingkaran adalah ", $luas_lingkaran->luas_lingkara
 
 $keliling_lingkaran = new rumus_bangun_ruang;
 echo "<br> 7. Hasil dari keliling lingkaran adalah ", $keliling_lingkaran->keliling_lingkaran(7,22/7);
+
