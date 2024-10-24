@@ -10,3 +10,4 @@ class Rumus_persegi
 
 $persegi = new Rumus_persegi;
 echo "Hasil dari class diatas adalah ", $persegi->rumus_persegi(7);
+
